@@ -10,6 +10,7 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
+  Test: "testme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -218,4 +219,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
